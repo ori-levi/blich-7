@@ -3,4 +3,4 @@ def foo():
 
     :return:
     """
-    pass
+    print 'ori'
