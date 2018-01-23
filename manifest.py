@@ -1,3 +1,7 @@
+"""
+Author: Ori Levi
+"""
+
 import os
 import json
 from jsonschema import validate
