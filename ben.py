@@ -3,4 +3,4 @@ def foo():
 
     :return:
     """
-    print 'ori'
+    print 'Ori'
