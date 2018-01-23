@@ -1,0 +1,6 @@
+def foo():
+    """
+
+    :return:
+    """
+    pass
