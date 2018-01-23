@@ -3,4 +3,5 @@ def foo():
 
     :return:
     """
-    print 'levi'
+    print 'Levi'
+    print 'Ori'
